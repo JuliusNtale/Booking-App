@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="flex flex-wrap justify-between items-center gap-4">
         {/* LOGO CONTAINER */}
         <span className="text-2xl font-bold text-gray-800">
-          Booking App
+          Hillsview Travels
         </span>
 
         {/* BUTTON CONTAINER */}
